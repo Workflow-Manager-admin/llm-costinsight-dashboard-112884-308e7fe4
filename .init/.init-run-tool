@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/llm-costinsight-dashboard-112884-308e7fe4/frontend_react"
+}
